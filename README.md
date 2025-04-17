@@ -12,7 +12,7 @@ The server supports private messages, broadcasts to everyone, and group chats. I
 
 ### Building the Server and Client
 
-This project uses a Makefile to compile both the server and the client. M To compile the server and client, simply run:
+This project uses a Makefile to compile both the server and the client. To compile the server and client, simply run:
 
 ```bash
 make
